@@ -1,0 +1,21 @@
+{
+  "scripts": {
+    "server": "nodemon src/main.js"
+  },
+  "engines": {
+    "node": "14.16.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "eslint": "^9.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
